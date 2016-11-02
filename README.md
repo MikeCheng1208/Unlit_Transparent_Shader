@@ -23,4 +23,4 @@ Shader "Mike/Transparent Depth" {
 }
 ```
 * 教學
-<http://zhi-yuan-chenge.blogspot.tw/>
+<http://zhi-yuan-chenge.blogspot.tw/2016/11/unityunlit-transparent.html>
